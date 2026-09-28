@@ -14,11 +14,10 @@ find . -path ./.git -prune -o -type f -print | sort > output/week00/file-list.tx
 head output/week00/file-list.txt
 ```
 
-```{r}
-#| echo: false
-#| eval: false
-# Uncomment after you have created the file list:
-# cat(readLines("../output/week00/file-list.txt", n = 10), sep = "\n")
+First ten lines of `output/week00/file-list.txt`:
+
+```text
+<paste the output of head here>
 ```
 
 Platform: my own computer (macOS / Windows / Linux: ___). Git version: ___.

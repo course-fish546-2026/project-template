@@ -7,7 +7,7 @@ One Quarto document per week: `week00.qmd`, `week01.qmd`, … `week09.qmd`. Each
 | File | What it is | What to do with it |
 |---|---|---|
 | `_template.qmd` | Blank starting point with the five required sections and a pre-push checklist | **Don't edit it.** Copy it each week. The leading `_` tells Quarto not to render it. |
-| `week00.qmd` | Your Week 0 entry, partly filled in as an example | Fill in the blanks (`___`, `<your name>`), render, and push. |
+| `week00.qmd` | Your Week 0 entry, partly filled in as an example | Fill in the blanks (`___`, `<your name>`, `<paste … here>`), render in RStudio Desktop, and push. |
 
 ## Starting a new week
 
