@@ -18,6 +18,7 @@ By Week 10 I will have: <one sentence>.
 | `output/` | Tables and figures written by code, one subfolder per week (`output/week03/`) |
 | `notebooks/` | One Quarto entry per week: `week01.qmd`, `week02.qmd`, … (start from `_template.qmd`) |
 | `docs/` | Final report |
+| `fish546.Rproj` | RStudio project file. Open it (**File → Open Project…**) every time you start work |
 
 ## Reproducing
 

@@ -11,7 +11,7 @@ One Quarto document per week: `week00.qmd`, `week01.qmd`, … `week09.qmd`. Each
 
 ## Starting a new week
 
-In the RStudio **Terminal** tab, from the top of your repository (replace `03` with the week number):
+Open your repository as an R Project first (**File → Open Project…** → `fish546.Rproj`; see the [R Projects guide](https://sr320.github.io/course-fish546-2026/r-projects.html)). Then, in the RStudio **Terminal** tab, from the top of your repository (replace `03` with the week number):
 
 ```bash
 cp notebooks/_template.qmd notebooks/week03.qmd
