@@ -8,7 +8,7 @@ date: today
 Before you push, check:
   [ ] this .qmd AND its rendered .html are both committed
   [ ] rendered from a clean session (Session > Restart R, then Render)
-  [ ] paths are relative to the repository root
+  [ ] paths are relative, not absolute: from notebooks/, use ../ (e.g. ../output/weekNN/)
   [ ] tables and figures are saved under output/weekNN/, not only printed here
   [ ] nothing under data/raw/ is committed
   [ ] software, platform, and container/environment are named
