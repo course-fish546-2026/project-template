@@ -32,7 +32,7 @@ Platform: my own computer (macOS / Windows / Linux: ___). Git version: ___.
 
 Draft project idea (one or two sentences): 
 
-## 4. Blockers
+## 4. Where I'm stuck
 
 None / ___
 

@@ -33,7 +33,7 @@ Rubric: https://sr320.github.io/course-fish546-2026/how-we-work.html#weekly-entr
 
 <!-- What moved this week, with links to commits, files, or figures. -->
 
-## 4. Blockers
+## 4. Where I'm stuck
 
 <!-- Specific problems, what you tried, and any linked Help Request. Or "none". -->
 
