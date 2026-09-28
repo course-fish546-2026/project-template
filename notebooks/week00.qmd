@@ -32,7 +32,7 @@ Platform: my own computer (macOS / Windows / Linux: ___). Git version: ___.
 
 Draft project idea (one or two sentences): 
 
-## 4. Blockers
+## 4. Problems and help needed
 
 None / ___
 
